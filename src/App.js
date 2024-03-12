@@ -9,7 +9,6 @@ import Main from './componentes/main/Main';
 function App() {
   return (
     <div className="App">
-      <App/>
       <Header />
       <Main />
       <Footer />
